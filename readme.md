@@ -1,6 +1,6 @@
 ## music-player 网易云音乐手机版
 
-[点击预览本项目]( "点击预览本项目")
+[点击预览本项目](git checkout master "点击预览本项目")
 
 #### TODO 功能点
 
